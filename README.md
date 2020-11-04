@@ -11,6 +11,11 @@ docker-compose up -d
   - [http://localhost:8000](http://localhost:8000)
 
 
+## Requirement
+- [Docker](https://www.docker.com/)
+- Browser
+
+
 ## References
 - [Quickstart: Compose and WordPress](https://docs.docker.com/compose/wordpress/)
 
