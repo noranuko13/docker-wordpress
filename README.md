@@ -1,4 +1,7 @@
 # docker-wordpress
+- Template repository for WordPress development.
+  - Write down the article.
+  - Create WordPress Theme.
 
 
 ## How to use.
